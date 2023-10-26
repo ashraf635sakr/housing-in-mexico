@@ -1,22 +1,45 @@
-# Housing Data Analysis in Mexico
+# Housing in Mexico
 
-Welcome to the "Housing Data Analysis in Mexico" project! This repository contains a Python script that loads housing data into a pandas DataFrame, cleans and combines the data, examines the relationship between variables using correlation, and creates insightful visualizations.
+## About
 
-## Project Overview
+The **Housing in Mexico** project focuses on analyzing and visualizing housing data in Mexico. This project involves:
 
-- **Load Data**: The project starts by loading housing data into a pandas DataFrame. The data likely contains information about housing in Mexico.
-
-- **Data Cleaning**: The loaded data may be messy and require cleaning. Data cleaning is essential to ensure the accuracy of your analysis.
-
-- **Correlation Analysis**: The project involves examining the relationship between variables using correlation. This step will help you understand how different variables are related to each other.
-
-- **Data Visualization**: To gain insights from the data, the project creates various visualizations, such as histograms, scatter plots, and bar charts. These visualizations make it easier to understand the data and its patterns.
+- Loading data into a pandas DataFrame
+- Cleaning and combining messy data
+- Examining the relationship between variables, including correlation analysis
+- Creating insightful visualizations like histograms, scatter plots, and bar charts.
 
 ## Getting Started
 
-To run this project on your local machine, follow these steps:
+To use this project:
 
-1. Clone the repository:
+1. Clone the repository: `git clone https://github.com/ashraf635sakr/housing-in-mexico.git`
 
-   ```sh
-   git clone https://github.com/ashraf635sakr/housing-in-mexico.git
+
+## Data
+
+The "data" folder contains the raw data used in this project, including various datasets related to housing in Mexico. Detailed information about the data structure and sources can be found within the Jupyter notebooks.
+
+## Analysis
+
+The primary tasks in this project include:
+
+- Loading data into a pandas DataFrame
+- Cleaning and combining messy data
+- Examining the relationship between variables, including correlation analysis.
+
+## Visualizations
+
+The "images" folder contains visualizations generated during the analysis, including:
+
+- Histograms
+- Scatter plots
+- Bar charts
+- Box plot
+
+These visualizations provide insights into the housing data in Mexico.
+
+
+## Source
+
+WorldQuant university data science lab
